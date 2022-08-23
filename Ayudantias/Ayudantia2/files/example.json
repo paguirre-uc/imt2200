@@ -1,0 +1,16 @@
+{
+    "Personas": {
+        "Felipe": {
+            "Apellido": "Guti\u00e9rrez",
+            "Rol": "Ayudante"
+        },
+        "Nicolas": {
+            "Apellido": "Mendicoa",
+            "Rol": "Ayudante"
+        },
+        "Paula": {
+            "Apellido": "Aguirre",
+            "Rol": "Profesora"
+        }
+    }
+}
