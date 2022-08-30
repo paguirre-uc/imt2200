@@ -1,0 +1,3 @@
+Generar una tabla con la información del link: https://www.chileconvencion.cl/convencionales/ que contenga:
+
+Nombre de convencional, distrito, link a discurso de apertura
