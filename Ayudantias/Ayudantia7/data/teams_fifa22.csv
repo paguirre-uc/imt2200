@@ -1,0 +1,735 @@
+ID,Name,League,LeagueId,Overall,Attack,Midfield,Defence,TransferBudget,DomesticPrestige,IntPrestige,Players,StartingAverageAge,AllTeamAverageAge
+1,Arsenal,English Premier League (1),13,79,83,81,77,77500000,7,7,33,25.1,23.2
+2,Aston Villa,English Premier League (1),13,78,79,76,77,37500000,4,3,31,24.7,23.3
+1925,Brentford,English Premier League (1),13,73,73,74,73,18000000,1,1,33,24.7,23.4
+1808,Brighton & Hove Albion,English Premier League (1),13,76,75,77,75,28000000,2,1,33,26.9,23.5
+1796,Burnley,English Premier League (1),13,76,76,76,77,22000000,2,1,33,28.6,26.6
+5,Chelsea,English Premier League (1),13,83,84,85,82,85000000,8,8,33,27.8,24.8
+1799,Crystal Palace,English Premier League (1),13,76,77,76,74,30000000,3,2,33,27.6,25.3
+7,Everton,English Premier League (1),13,79,79,78,80,49000000,6,5,33,27.3,25.7
+8,Leeds United,English Premier League (1),13,76,78,78,76,32500000,5,2,31,26.4,22.7
+95,Leicester City,English Premier League (1),13,80,82,81,79,50000000,7,6,33,27.4,25.3
+9,Liverpool,English Premier League (1),13,84,86,83,85,95000000,9,9,33,28.2,25.0
+10,Manchester City,English Premier League (1),13,85,85,85,86,176000000,10,10,33,27.0,23.9
+11,Manchester United,English Premier League (1),13,84,85,84,83,175000000,9,8,33,26.6,25.9
+13,Newcastle United,English Premier League (1),13,76,79,75,75,30000000,4,3,33,27.0,25.4
+1792,Norwich City,English Premier League (1),13,74,76,74,74,20000000,1,1,33,26.6,23.9
+17,Southampton,English Premier League (1),13,76,76,76,73,32500000,4,3,33,24.8,23.7
+18,Tottenham Hotspur,English Premier League (1),13,82,86,80,80,72500000,8,7,33,25.9,23.0
+1795,Watford,English Premier League (1),13,75,75,76,74,30000000,3,2,30,28.7,26.1
+19,West Ham United,English Premier League (1),13,79,79,79,79,35000000,5,4,33,28.4,25.8
+110,Wolverhampton Wanderers,English Premier League (1),13,78,78,81,77,45000000,5,4,33,27.6,23.6
+69,AS Monaco,French Ligue 1 (1),16,78,82,77,77,26100000,8,6,27,24.9,24.0
+1819,AS Saint-Étienne,French Ligue 1 (1),16,73,74,74,72,12100000,6,3,29,25.3,23.1
+1530,Angers SCO,French Ligue 1 (1),16,74,71,72,74,6300000,4,1,30,26.9,24.8
+1815,Clermont Foot 63,French Ligue 1 (1),16,71,71,71,71,4500000,1,1,27,28.4,26.0
+294,ESTAC Troyes,French Ligue 1 (1),16,72,73,72,70,5900000,1,1,33,26.6,25.9
+59,FC Girondins de Bordeaux,French Ligue 1 (1),16,74,75,74,71,9200000,6,3,31,25.3,24.0
+217,FC Lorient,French Ligue 1 (1),16,71,72,72,71,7000000,1,1,26,27.7,25.5
+68,FC Metz,French Ligue 1 (1),16,73,71,73,74,7200000,1,1,30,24.7,23.9
+71,FC Nantes,French Ligue 1 (1),16,73,74,73,72,7400000,5,2,31,25.9,25.0
+65,LOSC Lille,French Ligue 1 (1),16,78,77,79,78,15800000,7,4,30,26.4,24.1
+70,Montpellier Hérault SC,French Ligue 1 (1),16,74,74,75,72,7600000,6,2,27,26.3,23.8
+72,OGC Nice,French Ligue 1 (1),16,76,79,76,75,14700000,6,3,27,25.1,23.2
+66,Olympique Lyonnais,French Ligue 1 (1),16,78,77,79,78,50000000,8,6,31,25.8,24.3
+219,Olympique de Marseille,French Ligue 1 (1),16,78,77,78,75,14000000,8,5,33,24.4,22.2
+73,Paris Saint-Germain,French Ligue 1 (1),16,86,89,83,85,160000000,10,9,33,28.1,25.9
+76,RC Strasbourg Alsace,French Ligue 1 (1),16,74,75,74,73,7300000,4,1,25,27.3,25.8
+64,Racing Club de Lens,French Ligue 1 (1),16,74,73,76,73,8600000,4,1,27,26.4,24.1
+378,Stade Brestois 29,French Ligue 1 (1),16,73,73,73,71,6300000,1,1,26,24.4,23.9
+74,Stade Rennais FC,French Ligue 1 (1),16,76,78,76,75,14000000,7,3,27,24.6,23.5
+379,Stade de Reims,French Ligue 1 (1),16,73,71,73,74,8800000,5,1,29,24.3,23.3
+31,1. FC Köln,German 1. Bundesliga (1),19,73,74,74,72,12500000,4,3,31,27.7,24.2
+1831,1. FC Union Berlin,German 1. Bundesliga (1),19,74,77,72,73,6500000,3,2,31,28.6,26.2
+169,1. FSV Mainz 05,German 1. Bundesliga (1),19,73,72,74,74,9200000,3,2,32,25.4,24.2
+32,Bayer 04 Leverkusen,German 1. Bundesliga (1),19,78,78,78,74,39000000,8,6,27,24.6,24.0
+22,Borussia Dortmund,German 1. Bundesliga (1),19,81,84,81,81,60000000,9,7,31,25.9,24.4
+23,Borussia Mönchengladbach,German 1. Bundesliga (1),19,79,78,79,77,25000000,6,6,33,26.6,23.8
+159,DSC Arminia Bielefeld,German 1. Bundesliga (1),19,72,72,71,72,2300000,2,1,25,26.1,23.8
+1824,Eintracht Frankfurt,German 1. Bundesliga (1),19,77,76,77,76,25000000,6,5,31,25.4,24.9
+100409,FC Augsburg,German 1. Bundesliga (1),19,74,73,75,74,9500000,3,3,31,26.8,24.7
+21,FC Bayern München,German 1. Bundesliga (1),19,84,92,85,81,100000000,10,10,28,26.6,24.8
+166,Hertha BSC,German 1. Bundesliga (1),19,75,74,75,74,60000000,5,4,32,26.2,24.9
+112172,RB Leipzig,German 1. Bundesliga (1),19,80,84,80,79,50000000,9,7,32,24.7,22.9
+165,SpVgg Greuther Fürth,German 1. Bundesliga (1),19,71,72,72,70,1900000,1,1,32,26.9,23.8
+25,Sport-Club Freiburg,German 1. Bundesliga (1),19,74,72,73,75,10500000,4,3,26,25.7,24.7
+10029,TSG Hoffenheim,German 1. Bundesliga (1),19,76,77,77,74,28000000,5,4,33,25.7,25.1
+36,VfB Stuttgart,German 1. Bundesliga (1),19,74,70,73,74,20000000,4,4,33,23.4,22.6
+160,VfL Bochum 1848,German 1. Bundesliga (1),19,72,69,71,71,3300000,1,1,31,28.4,26.5
+175,VfL Wolfsburg,German 1. Bundesliga (1),19,78,80,78,77,40000000,7,5,32,26.4,24.5
+47,AC Milan,Italian Serie A (1),31,80,81,79,81,37000000,7,7,28,25.3,25.5
+39,Atalanta,Italian Serie A (1),31,80,81,79,78,20000000,7,7,25,28.4,26.8
+112026,Benevento,Italian Serie A (1),31,69,70,68,70,5600000,1,1,25,27.3,25.4
+189,Bologna,Italian Serie A (1),31,75,77,75,73,15000000,4,2,29,26.6,24.7
+1842,Cagliari,Italian Serie A (1),31,75,76,74,74,10000000,4,1,29,28.0,26.2
+110734,Crotone,Italian Serie A (1),31,67,66,67,66,4500000,1,1,25,25.1,23.9
+1746,Empoli,Italian Serie A (1),31,71,72,69,71,4500000,10,1,28,24.1,24.5
+110374,Fiorentina,Italian Serie A (1),31,76,75,77,76,25000000,6,5,27,24.6,25.8
+110556,Genoa,Italian Serie A (1),31,74,75,72,72,8500000,3,2,33,26.6,26.8
+206,Hellas Verona,Italian Serie A (1),31,75,75,75,74,8000000,3,1,26,27.1,25.9
+44,Inter,Italian Serie A (1),31,82,82,81,83,99500000,9,7,28,28.4,28.1
+45,Juventus,Italian Serie A (1),31,83,82,82,84,105000000,10,10,26,27.7,26.3
+46,Lazio,Italian Serie A (1),31,80,80,81,79,39600000,7,6,32,29.9,27.1
+48,Napoli,Italian Serie A (1),31,80,80,79,80,56000000,9,7,26,27.7,27.0
+50,Parma,Italian Serie A (1),31,71,72,70,69,8000000,4,2,28,26.7,24.5
+52,Roma,Italian Serie A (1),31,79,77,79,77,46000000,8,7,32,25.8,24.5
+110741,Spezia,Italian Serie A (1),31,71,71,70,67,2800000,1,1,26,24.7,23.4
+54,Torino F.C.,Italian Serie A (1),31,76,76,74,75,15500000,5,4,31,25.8,25.1
+1837,U.C. Sampdoria,Italian Serie A (1),31,75,77,75,73,12000000,4,3,26,29.1,26.7
+111974,U.S. Sassuolo Calcio,Italian Serie A (1),31,75,74,75,72,13500000,4,3,27,25.7,26.6
+110373,US Salernitana 1919,Italian Serie A (1),31,70,71,69,71,4000000,5,1,28,28.3,26.6
+55,Udinese Calcio,Italian Serie A (1),31,74,75,74,73,8000000,4,3,26,27.6,26.8
+205,Venezia FC,Italian Serie A (1),31,70,71,68,69,4000000,2,1,33,27.3,25.3
+448,Athletic Club de Bilbao,Spain Primera Division (1),53,79,80,79,78,18500000,7,5,30,27.8,25.0
+240,Atlético de Madrid,Spain Primera Division (1),53,84,84,83,83,68600000,9,9,32,28.1,25.2
+479,CA Osasuna,Spain Primera Division (1),53,76,78,76,76,4800000,5,1,33,28.4,25.6
+1968,Cádiz CF,Spain Primera Division (1),53,74,76,74,73,2000000,4,1,32,28.3,26.4
+463,Deportivo Alavés,Spain Primera Division (1),53,74,74,74,75,4400000,3,1,27,29.6,25.4
+468,Elche CF,Spain Primera Division (1),53,75,76,75,71,1700000,2,1,30,29.0,27.5
+241,FC Barcelona,Spain Primera Division (1),53,83,85,84,80,130000000,10,10,33,26.6,24.1
+1860,Getafe CF,Spain Primera Division (1),53,76,75,77,76,8300000,5,4,30,26.4,25.2
+110832,Granada CF,Spain Primera Division (1),53,77,77,77,78,7600000,6,3,33,27.3,26.0
+1853,Levante Unión Deportiva,Spain Primera Division (1),53,77,79,78,74,9300000,4,1,33,28.7,26.4
+450,RC Celta de Vigo,Spain Primera Division (1),53,76,80,76,75,11800000,6,4,33,28.7,25.1
+452,RCD Espanyol de Barcelona,Spain Primera Division (1),53,77,77,77,76,6000000,5,3,33,28.0,25.0
+453,RCD Mallorca,Spain Primera Division (1),53,74,78,74,73,2800000,3,1,32,28.2,25.4
+480,Rayo Vallecano,Spain Primera Division (1),53,74,78,74,72,3300000,3,1,31,27.6,25.8
+449,Real Betis Balompié,Spain Primera Division (1),53,79,79,80,78,16100000,6,2,33,29.7,26.9
+243,Real Madrid CF,Spain Primera Division (1),53,84,83,86,83,150000000,10,10,33,28.1,25.0
+457,Real Sociedad,Spain Primera Division (1),53,80,82,80,77,15800000,7,4,25,25.2,25.6
+481,Sevilla FC,Spain Primera Division (1),53,82,81,81,83,34500000,8,8,33,28.4,25.8
+461,Valencia CF,Spain Primera Division (1),53,77,77,77,78,60000000,8,6,33,25.9,23.7
+483,Villarreal CF,Spain Primera Division (1),53,80,83,79,80,32900000,8,7,33,29.6,26.0
+111019,Argentinos Juniors,Argentina Primera División  (1),353,71,69,71,72,2800000,6,5,28,27.6,26.1
+110394,Arsenal de Sarandí,Argentina Primera División  (1),353,68,69,68,67,2100000,3,3,28,29.1,27.4
+111708,Atlético Tucumán,Argentina Primera División  (1),353,69,71,70,68,2900000,4,2,28,30.0,26.5
+1877,Boca Juniors,Argentina Primera División  (1),353,75,70,75,76,15000000,10,9,28,26.7,25.4
+111707,Club Atlético Aldosivi,Argentina Primera División  (1),353,68,68,67,69,2500000,1,1,28,29.0,27.8
+110404,Club Atlético Banfield,Argentina Primera División  (1),353,69,64,71,67,4099999,5,3,28,25.6,24.1
+112965,Club Atlético Central Córdoba,Argentina Primera División  (1),353,68,67,70,66,2700000,1,1,28,28.0,26.8
+110406,Club Atlético Colón,Argentina Primera División  (1),353,72,71,73,71,4000000,5,3,28,26.6,25.0
+111711,Club Atlético Huracán,Argentina Primera División  (1),353,68,67,69,66,4800000,3,2,28,28.6,25.9
+110093,Club Atlético Independiente,Argentina Primera División  (1),353,72,76,73,71,13000000,9,7,27,26.4,25.0
+110395,Club Atlético Lanús,Argentina Primera División  (1),353,71,71,71,70,7500000,8,5,28,27.1,23.6
+112713,Club Atlético Sarmiento,Argentina Primera División  (1),353,67,67,67,66,1700000,1,1,28,26.4,27.1
+112670,Club Atlético Talleres,Argentina Primera División  (1),353,71,70,70,71,5200000,6,2,28,25.1,23.7
+111710,Defensa y Justicia,Argentina Primera División  (1),353,71,72,69,71,4900000,6,5,28,26.1,25.7
+101083,Estudiantes de La Plata,Argentina Primera División  (1),353,70,69,72,70,7900000,7,6,28,28.3,24.8
+101084,Gimnasia y Esgrima La Plata,Argentina Primera División  (1),353,69,72,70,68,4400000,2,1,28,27.7,26.2
+111706,Godoy Cruz,Argentina Primera División  (1),353,69,69,69,69,3500000,2,1,28,23.9,24.8
+110396,Newell's Old Boys,Argentina Primera División  (1),353,70,72,69,70,4000000,7,4,28,27.3,26.6
+110581,Patronato,Argentina Primera División  (1),353,67,67,67,66,2000000,1,1,28,28.6,27.5
+112689,Platense,Argentina Primera División  (1),353,67,66,68,66,2200000,1,1,28,27.1,26.4
+101085,Racing Club,Argentina Primera División  (1),353,73,73,73,73,9400000,9,8,28,28.0,27.3
+1876,River Plate,Argentina Primera División  (1),353,75,77,76,74,16000000,10,9,28,28.7,27.4
+110580,Rosario Central,Argentina Primera División  (1),353,70,73,70,68,5000000,7,4,28,27.3,26.0
+1013,San Lorenzo de Almagro,Argentina Primera División  (1),353,70,71,70,70,9000000,9,7,28,30.2,25.1
+111716,Unión de Santa Fe,Argentina Primera División  (1),353,69,69,69,68,4000000,3,1,28,24.4,24.4
+101088,Vélez Sarsfield,Argentina Primera División  (1),353,73,74,73,73,8000000,8,6,28,26.7,25.7
+111393,Adelaide United,Australian Hyundai A-League (1),351,64,59,67,64,2000000,4,3,25,29.0,24.0
+111395,Brisbane Roar,Australian Hyundai A-League (1),351,61,60,63,63,2000000,6,4,22,26.8,23.9
+111396,Central Coast Mariners,Australian Hyundai A-League (1),351,60,64,59,60,2000000,1,3,19,25.0,24.6
+114604,Macarthur FC,Australian Hyundai A-League (1),351,64,66,66,63,2000000,2,1,21,28.7,26.4
+112224,Melbourne City FC,Australian Hyundai A-League (1),351,66,69,65,67,2000000,9,3,25,26.8,23.8
+111397,Melbourne Victory,Australian Hyundai A-League (1),351,64,61,66,63,2000000,8,5,27,28.2,24.5
+111398,Newcastle Jets,Australian Hyundai A-League (1),351,62,63,60,61,2000000,3,1,23,24.6,24.0
+111399,Perth Glory,Australian Hyundai A-League (1),351,63,69,61,62,2000000,5,2,23,29.2,26.1
+111400,Sydney FC,Australian Hyundai A-League (1),351,67,69,67,65,2000000,10,5,27,31.1,26.1
+111766,Wellington Phoenix,Australian Hyundai A-League (1),351,64,67,64,63,2000000,3,1,19,26.1,24.2
+112427,Western Sydney Wanderers,Australian Hyundai A-League (1),351,65,66,67,64,2000000,7,5,21,25.6,25.1
+114023,Western United FC,Australian Hyundai A-League (1),351,65,63,69,65,2000000,1,1,27,29.6,25.0
+111821,FC Flyeralarm Admira,Austrian Football Bundesliga (1),80,64,61,64,65,2900000,2,1,28,24.7,23.4
+191,FC Red Bull Salzburg,Austrian Football Bundesliga (1),80,72,72,71,73,20700000,10,6,28,22.4,22.4
+256,FK Austria Wien,Austrian Football Bundesliga (1),80,66,67,65,67,7700000,6,5,27,25.6,22.9
+252,LASK Linz,Austrian Football Bundesliga (1),80,70,69,69,68,6900000,9,5,28,26.0,24.7
+111822,RZ Pellets Wolfsberger AC,Austrian Football Bundesliga (1),80,67,67,68,67,4400000,5,4,26,26.3,24.5
+15009,SC Rheindorf Altach,Austrian Football Bundesliga (1),80,64,64,64,65,2900000,4,2,28,25.7,24.7
+1787,SK Austria Klagenfurt,Austrian Football Bundesliga (1),80,64,63,64,63,2600000,2,2,28,25.1,24.3
+254,SK Rapid Wien,Austrian Football Bundesliga (1),80,69,73,69,69,5200000,8,5,28,24.3,23.9
+209,SK Sturm Graz,Austrian Football Bundesliga (1),80,69,68,69,68,5200000,7,4,28,25.1,23.3
+780,SV Ried,Austrian Football Bundesliga (1),80,64,64,65,63,3300000,3,1,28,25.4,23.8
+2017,TSV Egger Glas Hartberg,Austrian Football Bundesliga (1),80,65,64,64,65,2500000,2,1,27,27.4,24.9
+15040,WSG Tirol,Austrian Football Bundesliga (1),80,65,63,65,65,2900000,1,1,26,24.9,22.7
+231,Club Brugge KV,Belgian Jupiler Pro League (1),4,75,75,76,74,25900000,10,5,28,26.1,24.1
+675,K Beerschot VA,Belgian Jupiler Pro League (1),4,68,66,69,68,5300000,3,1,27,26.6,24.4
+674,KAA Gent,Belgian Jupiler Pro League (1),4,72,72,72,71,15800000,9,5,28,28.3,26.2
+2013,KAS Eupen,Belgian Jupiler Pro League (1),4,68,68,68,68,3600000,2,1,26,25.6,24.7
+673,KRC Genk,Belgian Jupiler Pro League (1),4,73,76,72,73,17400000,8,5,25,24.2,22.5
+1750,KSV Cercle Brugge,Belgian Jupiler Pro League (1),4,68,68,68,66,5400000,1,2,28,22.6,22.6
+100081,KV Kortrijk,Belgian Jupiler Pro League (1),4,68,65,68,69,4500000,4,2,27,25.6,24.6
+110724,KV Mechelen,Belgian Jupiler Pro League (1),4,69,68,69,68,4800000,5,4,28,25.6,24.9
+682,KV Oostende,Belgian Jupiler Pro League (1),4,68,68,68,67,3900000,2,1,23,23.2,22.8
+100087,Oud-Heverlee Leuven,Belgian Jupiler Pro League (1),4,69,71,69,67,6100000,4,1,28,26.8,24.9
+229,RSC Anderlecht,Belgian Jupiler Pro League (1),4,72,72,72,71,14300000,9,5,28,24.2,22.6
+230,Royal Antwerp FC,Belgian Jupiler Pro League (1),4,72,72,73,72,20800000,8,5,28,26.8,25.1
+670,Royal Charleroi S.C.,Belgian Jupiler Pro League (1),4,70,69,71,67,6500000,5,4,28,23.3,22.8
+2014,Royale Union Saint-Gilloise,Belgian Jupiler Pro League (1),4,68,70,68,66,2000000,2,1,24,26.4,24.5
+15005,SV Zulte Waregem,Belgian Jupiler Pro League (1),4,69,69,69,66,6000000,5,4,28,26.1,24.3
+112695,Seraing,Belgian Jupiler Pro League (1),4,64,65,65,64,1900000,1,1,28,24.4,22.9
+680,Sint-Truidense VV,Belgian Jupiler Pro League (1),4,68,68,67,68,4800000,5,3,28,26.4,24.9
+232,Standard de Liège,Belgian Jupiler Pro League (1),4,71,70,72,68,12700000,8,5,28,22.4,23.5
+112476,Associação Chapecoense de Futebol,Campeonato Brasileiro Série A (1),7,69,70,69,69,3300000,3,3,20,26.8,27.2
+112119,Atlético Clube Goianiense,Campeonato Brasileiro Série A (1),7,71,71,71,73,810000,2,2,20,25.7,25.0
+1598,Bahia,Campeonato Brasileiro Série A (1),7,71,71,70,71,3600000,4,3,20,24.3,25.8
+111059,Ceará Sporting Club,Campeonato Brasileiro Série A (1),7,72,71,72,73,1800000,2,2,20,27.9,26.6
+1039,Club Athletico Paranaense,Campeonato Brasileiro Série A (1),7,73,74,72,74,6200000,5,4,20,26.8,26.2
+1035,Clube Atlético Mineiro,Campeonato Brasileiro Série A (1),7,75,74,74,76,19000000,7,7,20,27.6,27.2
+115530,Cuiabá,Campeonato Brasileiro Série A (1),7,70,70,70,71,2100000,1,1,20,25.0,25.8
+1043,Flamengo,Campeonato Brasileiro Série A (1),7,76,77,76,75,42400000,10,7,20,26.4,27.6
+567,Fluminense,Campeonato Brasileiro Série A (1),7,72,74,72,72,4099999,9,4,20,26.8,26.6
+111052,Fortaleza,Campeonato Brasileiro Série A (1),7,72,74,71,72,1600000,2,1,20,23.6,24.0
+1629,Grêmio,Campeonato Brasileiro Série A (1),7,73,72,75,74,7000000,8,8,20,28.6,26.8
+1048,Internacional,Campeonato Brasileiro Série A (1),7,74,71,74,75,7700000,7,6,20,26.4,25.8
+111041,Juventude,Campeonato Brasileiro Série A (1),7,70,70,70,70,2400000,5,1,20,27.2,26.0
+383,Palmeiras,Campeonato Brasileiro Série A (1),7,74,74,76,74,20500000,8,6,20,27.6,27.6
+112472,RB Bragantino,Campeonato Brasileiro Série A (1),7,74,74,74,75,5400000,1,1,20,26.1,25.8
+1053,Santos,Campeonato Brasileiro Série A (1),7,73,74,72,72,6500000,7,8,20,27.9,26.8
+1041,Sport Club Corinthians Paulista,Campeonato Brasileiro Série A (1),7,73,72,72,74,16900000,8,7,20,25.0,26.8
+598,São Paulo,Campeonato Brasileiro Série A (1),7,74,74,74,72,11200000,9,6,20,29.4,28.4
+112533,CD Antofagasta,Chilian Campeonato Nacional (1),335,66,68,65,65,2300000,4,1,26,25.3,25.6
+111327,CD Huachipato,Chilian Campeonato Nacional (1),335,64,59,65,65,3700000,4,3,27,24.8,22.5
+111328,Club Deportivo Palestino,Chilian Campeonato Nacional (1),335,68,68,69,67,2400000,6,4,26,30.6,27.7
+110978,Club de Deportes Cobresal,Chilian Campeonato Nacional (1),335,65,66,63,64,1600000,4,2,22,30.0,27.6
+110975,Universidad Católica,Chilian Campeonato Nacional (1),335,70,75,70,68,8500000,10,6,30,29.7,25.8
+112535,Unión La Calera,Chilian Campeonato Nacional (1),335,67,68,66,67,1600000,3,1,24,28.2,26.2
+111768,Beijing Guoan FC,Chinese Super League (1),2012,66,69,67,64,10000000,8,5,28,29.6,26.4
+111769,Changchun Yatai FC,Chinese Super League (1),2012,65,71,64,64,2300000,3,2,28,30.3,27.9
+112165,Chongqing Liangjiang Athletic,Chinese Super League (1),2012,59,66,57,56,3500000,2,1,28,29.6,26.6
+112378,Dalian Professional Football Club,Chinese Super League (1),2012,63,75,61,63,5700000,5,1,28,28.1,25.3
+112429,Guangzhou City,Chinese Super League (1),2012,64,58,67,61,7600000,5,4,27,27.1,27.5
+111839,Guangzhou FC,Chinese Super League (1),2012,70,74,70,69,12800000,10,7,28,29.3,26.6
+112978,Hebei FC,Chinese Super League (1),2012,63,60,63,62,4200000,3,1,28,27.1,26.5
+111779,Henan Songshan Longmen FC,Chinese Super League (1),2012,66,71,68,63,3400000,4,2,28,29.3,27.5
+112961,Qingdao FC,Chinese Super League (1),2012,61,64,57,62,3200000,3,2,28,30.6,28.7
+111724,Shandong Taishan,Chinese Super League (1),2012,68,59,70,67,8000000,6,3,28,28.4,27.7
+112540,Shanghai Port FC,Chinese Super League (1),2012,68,67,72,66,15600000,9,5,28,29.3,27.0
+110955,Shanghai Shenhua FC,Chinese Super League (1),2012,68,71,69,64,5000000,5,3,28,31.4,29.9
+111773,Shenzhen FC,Chinese Super League (1),2012,66,73,67,61,5100000,3,1,27,28.8,26.9
+112985,Shijiazhuang Ever Bright F.C.,Chinese Super League (1),2012,63,68,63,62,2300000,2,1,28,30.4,27.9
+111774,Tianjin Jinmen Tiger FC,Chinese Super League (1),2012,60,60,60,61,2300000,4,2,28,28.7,26.9
+112541,Wuhan FC,Chinese Super League (1),2012,65,67,64,63,4500000,2,1,28,29.6,27.1
+101099,América de Cali,Colombian Liga Postobón (1),336,65,63,66,64,2200000,9,5,20,24.9,24.6
+101100,Atlético Nacional,Colombian Liga Postobón (1),336,68,67,70,66,9000000,6,6,23,28.4,25.2
+111722,Club Deportes Tolima,Colombian Liga Postobón (1),336,68,65,68,65,3000000,6,5,27,26.9,25.9
+101104,Club Independiente Santa Fe,Colombian Liga Postobón (1),336,64,65,65,63,7200000,7,5,25,26.9,23.6
+101102,Deportivo Cali,Colombian Liga Postobón (1),336,66,71,65,68,7000000,6,6,27,27.4,23.7
+111723,Deportivo Pasto,Colombian Liga Postobón (1),336,64,62,64,63,2500000,5,3,22,29.4,26.1
+101101,Junior FC,Colombian Liga Postobón (1),336,70,69,69,70,5000000,7,6,28,29.7,27.1
+112523,La Equidad,Colombian Liga Postobón (1),336,66,65,67,63,2000000,4,2,20,27.4,26.3
+211,Dinamo Zagreb,Croatian Prva HNL (1),317,72,71,73,71,11600000,10,6,28,26.2,25.2
+263,Hajduk Split,Croatian Prva HNL (1),317,70,68,70,69,8300000,9,2,28,26.0,24.2
+100135,APOEL Nicosia FC,Cypriot First Division (1),318,68,70,69,65,7700000,10,3,28,27.8,25.8
+267,AC Sparta Praha,Czech Republic Gambrinus Liga (1),319,73,74,74,73,7200000,9,4,26,26.6,24.9
+110468,FC Viktoria Plzeň,Czech Republic Gambrinus Liga (1),319,71,71,73,70,7800000,9,5,25,26.3,26.9
+266,SK Slavia Praha,Czech Republic Gambrinus Liga (1),319,75,75,74,73,9600000,10,6,28,25.1,26.2
+820,Aalborg BK,Danish Superliga (1),1,67,67,67,66,2700000,7,1,24,25.6,24.4
+271,Aarhus GF,Danish Superliga (1),1,68,70,68,67,3000000,7,1,26,25.6,24.5
+269,Brøndby IF,Danish Superliga (1),1,67,69,68,66,5600000,7,2,28,25.1,23.8
+819,F.C. København,Danish Superliga (1),1,71,69,72,70,10300000,10,4,26,24.6,24.8
+1516,FC Midtjylland,Danish Superliga (1),1,70,68,70,71,9600000,10,3,26,25.4,23.2
+1788,FC Nordsjælland,Danish Superliga (1),1,64,63,67,63,2800000,6,1,28,21.3,20.1
+272,Odense Boldklub,Danish Superliga (1),1,65,67,64,64,2600000,5,1,26,25.1,24.3
+1786,Randers FC,Danish Superliga (1),1,66,65,66,67,2000000,5,1,27,27.1,24.4
+270,Silkeborg IF,Danish Superliga (1),1,63,66,62,63,1700000,2,1,28,24.7,23.0
+1447,SønderjyskE,Danish Superliga (1),1,64,62,64,65,2000000,4,1,27,25.6,23.4
+822,Vejle Boldklub,Danish Superliga (1),1,65,65,66,65,1500000,2,1,28,24.9,23.2
+1443,Viborg FF,Danish Superliga (1),1,63,63,64,63,1300000,2,1,26,24.4,23.3
+110981,Barcelona Sporting Club,Ecuadorian Serie A (1),2018,70,70,69,71,4900000,10,5,26,28.1,27.1
+110984,CS Emelec,Ecuadorian Serie A (1),2018,67,68,68,66,2500000,8,4,26,28.4,26.7
+114578,Club Social y Deportivo Macará,Ecuadorian Serie A (1),2018,64,64,64,63,1500000,5,3,21,26.7,25.8
+113723,Guayaquil City FC,Ecuadorian Serie A (1),2018,64,65,65,61,1800000,6,3,23,25.8,25.0
+112908,Independiente del Valle,Ecuadorian Serie A (1),2018,68,66,71,68,1900000,8,5,25,27.2,24.2
+110986,LDU Quito,Ecuadorian Serie A (1),2018,69,68,70,68,2200000,9,6,28,27.2,24.8
+110987,Sociedad Deportiva Aucas,Ecuadorian Serie A (1),2018,63,67,61,62,1600000,5,3,23,27.7,23.6
+1943,AFC Bournemouth,English League Championship (2),14,73,71,74,70,11800000,8,1,30,24.9,23.7
+1932,Barnsley,English League Championship (2),14,68,69,65,68,5800000,6,1,30,23.2,22.2
+88,Birmingham City,English League Championship (2),14,70,70,70,71,7100000,4,1,30,27.2,25.3
+3,Blackburn Rovers,English League Championship (2),14,70,69,70,70,9200000,5,1,30,24.2,22.7
+1926,Blackpool,English League Championship (2),14,66,65,66,67,2100000,1,1,30,25.4,24.6
+1919,Bristol City,English League Championship (2),14,69,68,69,69,7800000,6,1,30,26.1,24.1
+1961,Cardiff City,English League Championship (2),14,69,70,70,68,8800000,7,1,30,26.7,24.0
+1800,Coventry City,English League Championship (2),14,69,69,70,68,4600000,3,1,30,25.6,24.7
+91,Derby County,English League Championship (2),14,69,67,70,69,5600000,4,1,30,27.9,24.9
+144,Fulham,English League Championship (2),14,73,75,73,72,15800000,9,1,30,26.6,25.9
+1939,Huddersfield Town,English League Championship (2),14,68,68,70,69,5100000,4,1,30,25.4,24.4
+1952,Hull City,English League Championship (2),14,67,68,67,67,3900000,2,1,30,24.6,23.1
+1923,Luton Town,English League Championship (2),14,68,68,69,68,3000000,2,1,30,25.6,24.8
+12,Middlesbrough,English League Championship (2),14,70,75,70,70,7700000,5,1,30,27.1,25.3
+97,Millwall,English League Championship (2),14,70,69,69,70,4300000,4,1,27,27.6,26.1
+14,Nottingham Forest,English League Championship (2),14,70,69,70,70,14600000,6,1,30,23.6,24.7
+1938,Peterborough United,English League Championship (2),14,67,69,66,67,2700000,1,1,30,26.9,22.9
+1801,Preston North End,English League Championship (2),14,70,68,71,68,4700000,5,1,30,24.6,25.8
+15,Queens Park Rangers,English League Championship (2),14,70,71,70,70,5100000,4,1,30,25.3,24.8
+1793,Reading,English League Championship (2),14,71,72,71,72,5900000,7,1,30,26.6,23.9
+1794,Sheffield United,English League Championship (2),14,73,72,74,73,13300000,8,1,30,28.6,26.5
+1806,Stoke City,English League Championship (2),14,70,68,71,69,5800000,5,1,30,24.4,24.7
+1960,Swansea City,English League Championship (2),14,69,67,70,70,10200000,7,1,30,25.6,23.1
+109,West Bromwich Albion,English League Championship (2),14,72,72,73,72,13700000,9,1,30,26.8,24.5
+112259,AFC Wimbledon,English League One (3),60,63,63,64,63,500000,2,1,26,23.2,22.1
+110313,Accrington Stanley,English League One (3),60,63,65,63,63,500000,1,1,28,25.0,23.1
+4,Bolton Wanderers,English League One (3),60,65,66,65,65,500000,8,1,28,26.4,25.9
+15015,Burton Albion,English League One (3),60,64,64,63,64,750000,7,1,28,26.1,25.4
+1944,Cambridge United,English League One (3),60,63,63,63,63,500000,3,1,25,26.6,24.1
+89,Charlton Athletic,English League One (3),60,66,67,66,65,2800000,2,1,28,27.1,26.0
+1936,Cheltenham Town,English League One (3),60,63,64,63,63,500000,5,1,21,27.6,25.1
+121,Crewe Alexandra,English League One (3),60,63,64,63,63,500000,5,1,27,23.4,23.2
+142,Doncaster Rovers,English League One (3),60,65,63,65,65,1300000,7,1,25,23.7,23.8
+112260,Fleetwood Town,English League One (3),60,64,63,65,65,750000,6,1,28,25.1,23.1
+1802,Gillingham,English League One (3),60,64,65,64,63,1000000,5,1,22,25.7,25.8
+94,Ipswich Town,English League One (3),60,67,66,67,66,2800000,9,1,28,24.8,25.6
+149,Lincoln City,English League One (3),60,64,65,65,64,1300000,7,1,25,24.3,22.8
+1798,Milton Keynes Dons,English League One (3),60,64,64,64,63,1500000,5,1,26,23.4,22.7
+357,Morecambe,English League One (3),60,63,63,64,64,500000,1,1,27,25.6,24.3
+1951,Oxford United,English League One (3),60,65,65,66,65,1000000,6,1,28,25.8,25.0
+1929,Plymouth Argyle,English League One (3),60,64,64,64,64,1300000,9,1,25,25.3,24.6
+1790,Portsmouth,English League One (3),60,66,65,66,66,2000000,9,1,26,26.3,24.6
+1797,Rotherham United,English League One (3),60,66,66,67,65,1800000,8,1,23,25.6,25.4
+1807,Sheffield Wednesday,English League One (3),60,68,67,69,68,5000000,5,1,25,27.2,25.7
+127,Shrewsbury Town,English League One (3),60,64,63,64,65,750000,5,1,22,27.3,24.8
+106,Sunderland,English League One (3),60,66,65,66,64,5400000,9,2,27,25.2,23.8
+1917,Wigan Athletic,English League One (3),60,67,68,66,67,2400000,2,1,28,27.2,24.9
+1933,Wycombe Wanderers,English League One (3),60,66,66,66,67,750000,4,1,28,29.8,26.5
+381,Barrow,English League Two (4),61,61,61,62,61,500000,1,1,26,25.1,25.9
+1804,Bradford City,English League Two (4),61,63,65,63,62,1300000,9,1,26,27.2,24.9
+1962,Bristol Rovers,English League Two (4),61,64,63,64,62,750000,4,1,28,26.2,26.1
+1480,Carlisle United,English League Two (4),61,62,62,64,61,500000,6,1,25,25.4,22.9
+1935,Colchester United,English League Two (4),61,63,60,63,63,500000,6,1,28,28.4,24.1
+110890,Crawley Town,English League Two (4),61,62,60,62,62,500000,3,1,28,27.4,25.5
+143,Exeter City,English League Two (4),61,62,60,62,61,750000,6,1,26,25.6,24.9
+561,Forest Green Rovers,English League Two (4),61,62,62,63,62,1000000,7,1,22,24.6,23.6
+112222,Harrogate Town,English League Two (4),61,62,63,62,62,500000,1,1,19,27.9,26.9
+1941,Hartlepool United,English League Two (4),61,61,60,61,61,650000,4,1,25,26.8,25.0
+1958,Leyton Orient,English League Two (4),61,62,61,63,62,750000,4,1,25,25.7,22.7
+1940,Mansfield Town,English League Two (4),61,62,63,63,61,1500000,8,1,28,25.8,24.3
+112254,Newport County,English League Two (4),61,62,61,62,63,750000,5,1,28,27.7,25.6
+1930,Northampton Town,English League Two (4),61,63,63,63,63,1000000,7,1,22,25.4,24.9
+1920,Oldham Athletic,English League Two (4),61,62,62,61,62,750000,4,1,26,28.2,24.4
+1928,Port Vale,English League Two (4),61,62,62,62,62,750000,4,1,26,27.0,25.4
+1955,Rochdale,English League Two (4),61,62,61,64,61,500000,2,1,25,23.9,23.4
+113926,Salford City,English League Two (4),61,63,63,64,63,1500000,8,1,28,27.6,24.0
+1949,Scunthorpe United,English League Two (4),61,61,61,59,61,1000000,8,1,28,23.0,22.1
+361,Stevenage,English League Two (4),61,62,63,62,62,750000,3,1,23,27.4,25.5
+110799,Sutton United,English League Two (4),61,60,60,61,60,1300000,1,1,26,27.0,26.2
+1934,Swindon Town,English League Two (4),61,62,59,63,62,750000,7,1,25,24.7,23.0
+15048,Tranmere Rovers,English League Two (4),61,63,60,64,63,750000,2,1,27,30.6,27.3
+1803,Walsall,English League Two (4),61,62,62,62,62,750000,7,1,24,23.9,24.6
+1947,Wrexham AFC,English National League (5),62,62,63,62,61,500000,1,1,27,26.1,25.3
+100325,HJK Helsinki,Finnish Veikkausliiga (1),322,64,66,65,64,2000000,10,1,25,28.3,25.6
+614,AC Ajaccio,French Ligue 2 (2),17,67,69,67,65,2600000,4,1,23,30.0,25.9
+57,AJ Auxerre,French Ligue 2 (2),17,69,73,69,69,4200000,5,1,27,27.9,24.6
+1823,AS Nancy Lorraine,French Ligue 2 (2),17,65,65,64,66,3800000,5,1,29,24.4,23.0
+1816,Amiens SC,French Ligue 2 (2),17,69,66,67,69,3900000,2,1,30,25.4,23.8
+1813,Chamois Niortais Football Club,French Ligue 2 (2),17,65,66,64,63,3100000,3,1,26,22.6,22.8
+110569,Dijon FCO,French Ligue 2 (2),17,70,70,69,69,3900000,2,1,27,28.6,25.7
+62,En Avant de Guingamp,French Ligue 2 (2),17,67,66,68,66,4700000,9,1,29,27.3,23.7
+226,FC Sochaux-Montbéliard,French Ligue 2 (2),17,66,66,67,66,3300000,6,1,26,26.0,23.8
+1805,Grenoble Foot 38,French Ligue 2 (2),17,67,66,65,67,3300000,3,1,28,27.8,25.6
+1738,Le Havre AC,French Ligue 2 (2),17,66,66,66,65,5200000,7,1,27,27.2,23.7
+224,Nîmes Olympique,French Ligue 2 (2),17,70,69,71,68,5200000,3,1,25,24.7,23.6
+111817,Paris FC,French Ligue 2 (2),17,67,67,67,66,5600000,3,1,26,26.8,24.3
+110321,Pau FC,French Ligue 2 (2),17,65,65,65,65,1900000,1,1,22,27.4,25.2
+111659,Rodez Aveyron Football,French Ligue 2 (2),17,65,66,65,65,2000000,1,1,25,25.9,24.8
+58,SC Bastia,French Ligue 2 (2),17,64,64,63,64,2100000,4,1,25,28.0,27.4
+210,Stade Malherbe Caen,French Ligue 2 (2),17,67,69,67,67,3300000,3,1,30,25.9,24.1
+1809,Toulouse Football Club,French Ligue 2 (2),17,67,66,69,66,6700000,3,1,24,25.2,22.9
+112552,US Quevilly Rouen Métropole,French Ligue 2 (2),17,64,65,64,62,1900000,1,1,27,26.4,25.0
+111276,USL Dunkerque,French Ligue 2 (2),17,64,64,64,64,2700000,1,1,27,28.6,26.4
+110456,Valenciennes FC,French Ligue 2 (2),17,68,69,67,68,2700000,3,1,28,26.1,24.5
+111235,1. FC Heidenheim 1846,German 2. Bundesliga (2),20,69,70,68,72,2000000,6,1,27,26.3,24.7
+171,1. FC Nürnberg,German 2. Bundesliga (2),20,69,66,68,70,5400000,6,1,29,24.8,24.7
+27,F.C. Hansa Rostock,German 2. Bundesliga (2),20,67,67,67,67,650000,1,1,27,28.0,26.3
+506,FC Erzgebirge Aue,German 2. Bundesliga (2),20,68,66,67,67,1600000,3,1,30,27.7,25.2
+111239,FC Ingolstadt 04,German 2. Bundesliga (2),20,67,67,66,66,4000000,3,1,30,25.4,25.1
+34,FC Schalke 04,German 2. Bundesliga (2),20,71,72,71,70,20000000,10,4,27,26.4,25.3
+110329,FC St. Pauli,German 2. Bundesliga (2),20,68,69,68,68,2900000,6,1,30,25.7,24.9
+110636,Fortuna Düsseldorf,German 2. Bundesliga (2),20,70,71,70,69,7500000,8,1,30,25.7,24.8
+28,Hamburger SV,German 2. Bundesliga (2),20,70,71,70,70,18000000,9,3,26,25.7,23.4
+485,Hannover 96,German 2. Bundesliga (2),20,70,69,69,70,10000000,8,2,30,26.7,25.5
+576,Holstein Kiel,German 2. Bundesliga (2),20,69,69,68,69,1700000,6,1,28,26.4,26.1
+1832,Karlsruher SC,German 2. Bundesliga (2),20,68,68,70,68,800000,3,1,28,27.4,25.0
+10030,SC Paderborn 07,German 2. Bundesliga (2),20,69,69,69,67,5000000,5,1,30,26.6,24.2
+503,SG Dynamo Dresden,German 2. Bundesliga (2),20,67,66,67,67,2000000,2,1,30,25.6,24.7
+543,SSV Jahn Regensburg,German 2. Bundesliga (2),20,68,68,67,66,1000000,2,1,26,24.9,25.6
+110502,SV Darmstadt 98,German 2. Bundesliga (2),20,68,64,68,69,3300000,4,1,30,25.8,23.9
+110178,SV Sandhausen,German 2. Bundesliga (2),20,68,70,67,68,1500000,3,1,26,27.8,26.9
+38,SV Werder Bremen,German 2. Bundesliga (2),20,72,70,70,73,10000000,9,3,28,25.7,23.7
+29,1. FC Kaiserslautern,German 3. Bundesliga (3),2076,65,64,65,64,750000,6,1,28,26.0,24.3
+110588,1. FC Magdeburg,German 3. Bundesliga (3),2076,63,64,62,64,800000,4,1,28,24.6,23.7
+523,1. FC Saarbrücken,German 3. Bundesliga (3),2076,65,64,64,63,1200000,4,1,28,26.4,25.1
+110676,Borussia Dortmund II,German 3. Bundesliga (3),2076,62,61,62,63,2100000,1,1,26,22.2,21.4
+110500,Eintracht Braunschweig,German 3. Bundesliga (3),2076,65,64,65,67,900000,8,1,26,26.2,24.0
+115820,FC Viktoria 1889 Berlin,German 3. Bundesliga (3),2076,62,62,62,62,874000,1,1,28,25.4,24.3
+110197,FC Würzburger Kickers,German 3. Bundesliga (3),2076,64,64,64,64,725000,6,1,26,24.7,23.5
+110592,FSV Zwickau,German 3. Bundesliga (3),2076,63,64,62,64,500000,3,1,24,25.7,25.4
+110482,Hallescher FC,German 3. Bundesliga (3),2076,65,68,64,64,640000,5,1,28,26.0,24.3
+1825,MSV Duisburg,German 3. Bundesliga (3),2076,64,67,65,63,800000,6,1,25,27.0,25.1
+110691,SC Freiburg II,German 3. Bundesliga (3),2076,60,62,62,59,2600000,1,1,28,22.8,20.9
+110597,SV Meppen,German 3. Bundesliga (3),2076,64,62,63,64,520000,2,1,28,27.9,26.0
+110532,SV Waldhof Mannheim 07,German 3. Bundesliga (3),2076,65,67,65,64,500000,4,1,27,25.7,24.1
+492,SV Wehen Wiesbaden,German 3. Bundesliga (3),2076,65,65,66,65,1700000,7,1,28,26.1,24.9
+110501,Sportclub Verl,German 3. Bundesliga (3),2076,63,63,63,63,1000000,2,1,28,23.6,24.3
+33,TSV 1860 München,German 3. Bundesliga (3),2076,66,67,66,66,1000000,10,1,28,27.6,23.9
+110678,TSV Havelse,German 3. Bundesliga (3),2076,62,60,62,62,1900000,1,1,27,25.4,25.1
+114398,Türkgücü München,German 3. Bundesliga (3),2076,65,65,65,65,1000000,5,1,28,28.6,25.9
+487,VfL Osnabrück,German 3. Bundesliga (3),2076,65,66,65,65,520000,6,1,27,25.7,24.2
+110645,Viktoria Köln,German 3. Bundesliga (3),2076,65,63,65,64,500000,4,1,28,24.4,24.2
+278,AEK Athens,Greek Super League (1),63,73,74,73,71,12400000,9,5,28,29.3,26.5
+280,Olympiacos CFP,Greek Super League (1),63,76,77,76,73,19000000,10,5,28,28.4,25.9
+393,PAOK,Greek Super League (1),63,73,74,73,72,16800000,9,4,28,28.8,27.0
+1884,Panathinaikos FC,Greek Super League (1),63,72,73,71,69,5300000,7,4,28,28.0,26.5
+1906,AZ Alkmaar,Holland Eredivisie (1),10,72,71,73,72,9900000,8,3,26,24.2,22.7
+245,Ajax,Holland Eredivisie (1),10,78,80,78,79,34400000,10,7,29,26.0,23.8
+1915,FC Groningen,Holland Eredivisie (1),10,67,69,67,68,7900000,6,2,29,24.4,22.1
+1908,FC Twente,Holland Eredivisie (1),10,69,69,69,67,8800000,5,1,28,25.9,23.3
+1903,FC Utrecht,Holland Eredivisie (1),10,70,69,73,71,13800000,7,2,29,25.6,24.3
+246,Feyenoord,Holland Eredivisie (1),10,74,74,73,75,14300000,8,3,28,24.7,22.8
+634,Fortuna Sittard,Holland Eredivisie (1),10,68,65,68,68,6200000,4,1,27,25.6,23.1
+100632,Go Ahead Eagles,Holland Eredivisie (1),10,66,66,66,65,3800000,2,1,27,24.4,23.5
+100634,Heracles Almelo,Holland Eredivisie (1),10,67,67,68,66,4400000,5,1,30,23.8,22.8
+1910,N.E.C. Nijmegen,Holland Eredivisie (1),10,67,64,67,66,4800000,3,1,26,23.6,23.9
+1914,PEC Zwolle,Holland Eredivisie (1),10,66,64,66,66,5300000,5,1,30,24.7,23.0
+247,PSV,Holland Eredivisie (1),10,76,78,77,75,23900000,9,5,30,25.8,23.7
+1905,RKC Waalwijk,Holland Eredivisie (1),10,66,66,65,67,2700000,2,1,28,26.3,24.6
+647,SC Cambuur,Holland Eredivisie (1),10,65,64,67,65,3300000,3,1,25,26.0,23.9
+1913,SC Heerenveen,Holland Eredivisie (1),10,68,69,69,67,6400000,6,2,28,25.4,22.9
+100646,Sparta Rotterdam,Holland Eredivisie (1),10,68,70,67,67,6000000,4,1,24,26.7,25.3
+1909,Vitesse,Holland Eredivisie (1),10,70,70,70,72,16399999,6,2,27,23.6,22.4
+1907,Willem II,Holland Eredivisie (1),10,67,67,68,65,5000000,4,1,25,24.4,23.9
+1874,Ferencvárosi TC,Hungarian Nemzeti Bajnokság I (1),64,71,70,72,70,6800000,10,3,28,25.9,26.3
+113146,ATK Mohun Bagan FC,Indian Super League (1),2149,62,65,62,59,3000000,9,4,23,26.2,25.6
+113302,Bengaluru FC,Indian Super League (1),2149,60,62,60,59,2000000,7,3,27,27.7,25.2
+113297,Chennaiyin FC,Indian Super League (1),2149,60,59,63,58,1700000,6,2,28,27.6,25.6
+113298,FC Goa,Indian Super League (1),2149,60,64,60,60,1200000,7,3,27,27.3,25.1
+113301,Hyderabad FC,Indian Super League (1),2149,59,64,60,58,933000,2,1,28,27.6,25.1
+114168,Jamshedpur FC,Indian Super League (1),2149,58,64,58,56,1100000,3,1,22,29.2,25.7
+113299,Kerala Blasters FC,Indian Super League (1),2149,60,67,60,60,2100000,6,2,26,26.7,24.8
+113300,Mumbai City FC,Indian Super League (1),2149,61,65,62,60,3100000,8,3,25,28.1,25.0
+113040,NorthEast United FC,Indian Super League (1),2149,57,65,58,56,923000,4,1,24,28.6,26.3
+113257,Odisha FC,Indian Super League (1),2149,57,70,57,57,851000,2,1,28,26.3,24.0
+111629,SC East Bengal FC,Indian Super League (1),2149,59,58,59,59,2000000,5,3,28,28.6,26.9
+1369,Argentina,International,78,84,87,82,81,0,10,9,23,27.8,27.6
+1415,Australia,International,78,72,73,71,71,0,10,5,23,27.6,27.8
+1322,Austria,International,78,78,79,79,77,0,10,4,23,26.8,26.9
+1325,Belgium,International,78,83,85,83,80,0,10,8,23,29.4,29.2
+1370,Brazil,International,78,80,80,80,80,0,10,10,23,26.4,25.9
+111455,Canada,International,78,73,73,74,69,0,10,2,23,27.8,27.2
+1413,China PR,International,78,70,77,67,68,0,10,3,23,31.0,29.4
+1330,Czech Republic,International,78,77,77,77,76,0,10,5,23,28.0,27.1
+1331,Denmark,International,78,79,77,80,79,0,10,6,23,27.4,27.2
+1318,England,International,78,84,87,83,84,0,10,8,23,25.6,24.7
+1334,Finland,International,78,71,72,71,67,0,10,3,23,27.9,27.2
+1335,France,International,78,85,88,85,82,0,10,10,23,27.9,26.7
+1337,Germany,International,78,83,84,85,80,0,10,10,23,26.3,25.1
+1338,Greece,International,78,75,74,75,72,0,10,6,23,26.6,26.2
+1886,Hungary,International,78,73,73,70,74,0,10,4,23,26.0,27.7
+1341,Iceland,International,78,71,71,72,69,0,10,2,23,30.4,30.1
+1343,Italy,International,78,83,84,84,82,0,10,9,23,28.2,27.0
+1386,Mexico,International,78,78,79,78,74,0,10,7,23,28.4,27.6
+105035,Netherlands,International,78,82,82,82,84,0,10,8,23,27.0,25.4
+111473,New Zealand,International,78,67,69,67,68,0,10,2,23,24.3,24.5
+110081,Northern Ireland,International,78,70,66,71,73,0,10,2,23,28.4,29.1
+1352,Norway,International,78,76,79,76,74,0,10,4,23,25.8,25.6
+1353,Poland,International,78,77,83,73,74,0,10,5,23,28.1,26.4
+1354,Portugal,International,78,84,84,83,84,0,10,8,23,28.6,27.4
+1355,Republic of Ireland,International,78,73,70,71,75,0,10,5,23,28.3,27.3
+1356,Romania,International,78,71,72,72,70,0,10,5,23,26.9,25.3
+1357,Russia,International,78,75,76,76,73,0,10,6,23,29.7,27.6
+1359,Scotland,International,78,75,73,76,75,0,10,4,23,27.3,26.6
+1362,Spain,International,78,84,83,84,84,0,10,9,23,25.6,26.4
+1363,Sweden,International,78,77,79,77,75,0,10,5,23,27.2,27.5
+1366,Ukraine,International,78,76,78,78,73,0,10,6,23,26.4,26.6
+1387,United States,International,78,75,76,74,74,0,10,6,23,24.2,24.5
+1367,Wales,International,78,74,75,74,73,0,10,4,23,26.7,25.7
+111811,AC Monza,Italian Serie B (2),32,70,69,68,70,6700000,7,1,28,27.3,27.1
+347,Lecce,Italian Serie B (2),32,69,68,67,69,6000000,7,1,28,27.2,25.4
+113186,Avispa Fukuoka,Japanese J. League Division 1 (1),349,66,67,65,66,2700000,2,1,30,27.3,27.2
+101148,Cerezo Osaka,Japanese J. League Division 1 (1),349,69,66,70,68,6900000,7,5,30,27.2,27.1
+101150,FC Tokyo,Japanese J. League Division 1 (1),349,68,70,67,69,10000000,7,5,30,29.1,27.3
+112093,Gamba Osaka,Japanese J. League Division 1 (1),349,68,68,67,70,8700000,8,5,30,29.2,26.6
+112444,Hokkaido Consadole Sapporo,Japanese J. League Division 1 (1),349,66,66,65,68,5200000,4,1,25,26.6,26.8
+101147,Kashima Antlers,Japanese J. League Division 1 (1),349,69,70,69,66,8900000,9,6,30,23.4,24.8
+101145,Kashiwa Reysol,Japanese J. League Division 1 (1),349,66,67,66,66,7700000,7,4,30,25.8,26.8
+111730,Kawasaki Frontale,Japanese J. League Division 1 (1),349,70,71,70,71,9300000,8,5,30,28.9,27.0
+112092,Nagoya Grampus,Japanese J. League Division 1 (1),349,68,70,68,67,8300000,5,3,30,27.0,26.3
+113183,Oita Trinita,Japanese J. League Division 1 (1),349,65,65,64,65,4099999,3,1,30,27.4,26.7
+113160,Sagan Tosu,Japanese J. League Division 1 (1),349,65,64,65,64,4099999,2,1,30,26.7,26.1
+113157,Sanfrecce Hiroshima,Japanese J. League Division 1 (1),349,67,68,66,69,8000000,7,5,29,29.4,26.3
+101149,Shimizu S-Pulse,Japanese J. League Division 1 (1),349,68,69,67,66,4200000,3,1,30,26.6,26.8
+113161,Shonan Bellmare,Japanese J. League Division 1 (1),349,65,66,64,64,3900000,2,2,30,25.8,26.0
+112783,Tokushima Vortis,Japanese J. League Division 1 (1),349,65,67,65,65,2900000,2,2,30,25.9,26.0
+111575,Urawa Red Diamonds,Japanese J. League Division 1 (1),349,69,70,66,70,10200000,9,5,28,27.1,27.3
+112836,Vegalta Sendai,Japanese J. League Division 1 (1),349,65,66,63,64,4300000,4,4,30,27.6,25.8
+101146,Vissel Kobe,Japanese J. League Division 1 (1),349,69,70,70,69,16800000,6,5,29,29.2,26.0
+101151,Yokohama F. Marinos,Japanese J. League Division 1 (1),349,69,69,70,69,10300000,9,4,27,26.6,26.4
+113197,Yokohama FC,Japanese J. League Division 1 (1),349,65,66,64,65,2800000,2,1,30,25.4,28.0
+2056,Daegu FC,Korean K League 1 (1),83,65,72,66,63,4200000,8,4,28,26.9,26.2
+982,FC Seoul,Korean K League 1 (1),83,67,67,68,64,3200000,4,7,28,28.1,25.6
+112115,Gangwon FC,Korean K League 1 (1),83,65,64,64,65,4800000,6,1,28,28.4,25.6
+112258,GwangJu FC,Korean K League 1 (1),83,65,67,64,63,1600000,2,1,28,27.6,27.6
+110765,Incheon United FC,Korean K League 1 (1),83,66,67,68,66,2700000,1,1,28,30.4,28.6
+1478,Jeju United FC,Korean K League 1 (1),83,66,65,63,64,3600000,5,2,28,27.6,27.4
+1477,Jeonbuk Hyundai Motors,Korean K League 1 (1),83,70,71,71,69,8600000,10,7,28,28.2,27.9
+1474,Pohang Steelers,Korean K League 1 (1),83,66,66,65,61,4400000,7,5,28,27.2,25.8
+981,Seongnam FC,Korean K League 1 (1),83,64,66,62,64,2800000,2,2,28,29.8,27.9
+112558,Suwon FC,Korean K League 1 (1),83,65,66,67,63,2100000,1,1,28,28.9,27.8
+983,Suwon Samsung Bluewings,Korean K League 1 (1),83,67,66,68,67,3000000,8,4,28,27.0,26.4
+1473,Ulsan Hyundai FC,Korean K League 1 (1),83,69,65,69,70,9100000,9,7,28,28.4,27.8
+114577,Club Always Ready,Liga de Fútbol Profesional Boliviano (1),2017,65,64,64,66,1100000,4,1,29,29.4,27.0
+112667,Club Atlético Nacional Potosí,Liga de Fútbol Profesional Boliviano (1),2017,64,66,63,64,1500000,1,1,24,28.4,27.5
+115358,Club Atlético Palmaflor,Liga de Fútbol Profesional Boliviano (1),2017,65,64,65,64,1200000,1,1,26,28.4,27.0
+110968,Club Bolívar,Liga de Fútbol Profesional Boliviano (1),2017,67,70,64,67,3300000,10,5,28,25.7,23.7
+114600,Club Deportivo Guabirá,Liga de Fútbol Profesional Boliviano (1),2017,65,67,64,64,1300000,1,1,26,27.8,25.4
+110974,Club Deportivo Jorge Wilstermann,Liga de Fútbol Profesional Boliviano (1),2017,67,66,67,63,2100000,7,3,30,27.8,27.8
+110969,Club The Strongest,Liga de Fútbol Profesional Boliviano (1),2017,67,69,65,66,2400000,8,4,25,30.4,27.1
+1032,CF Monterrey ,Mexican Liga MX (1),341,75,75,75,75,25100000,8,9,27,27.0,25.0
+1879,Club América,Mexican Liga MX (1),341,74,75,74,74,23200000,10,9,26,27.8,26.4
+101114,Club Atlas,Mexican Liga MX (1),341,70,70,69,69,6500000,3,1,24,26.6,24.8
+112678,Club Atlético de San Luis,Mexican Liga MX (1),341,69,72,69,68,5200000,2,1,30,26.8,24.2
+1880,Club Deportivo Guadalajara,Mexican Liga MX (1),341,71,73,71,70,19700000,8,8,30,25.6,25.5
+110781,Club León,Mexican Liga MX (1),341,73,72,74,72,4099999,8,4,25,30.7,28.1
+101121,Club Necaxa,Mexican Liga MX (1),341,69,71,67,69,8300000,4,4,26,25.2,25.1
+111678,Club Tijuana,Mexican Liga MX (1),341,71,72,70,68,7200000,5,2,25,26.8,25.2
+1881,Club Universidad Nacional,Mexican Liga MX (1),341,69,72,67,67,8500000,6,5,29,25.9,24.7
+1878,Cruz Azul,Mexican Liga MX (1),341,74,77,74,73,20400000,9,6,27,29.7,27.2
+1882,Deportivo Toluca,Mexican Liga MX (1),341,71,72,71,68,7500000,5,2,30,27.1,26.4
+113134,Fútbol Club Juárez,Mexican Liga MX (1),341,70,70,71,67,2000000,3,1,30,28.7,26.7
+110150,Gallos Blancos de Querétaro,Mexican Liga MX (1),341,68,68,69,66,1600000,3,1,28,28.7,26.8
+114899,Mazatlán Futbol Club,Mexican Liga MX (1),341,68,71,66,65,1600000,2,1,25,27.9,26.1
+110147,Pachuca,Mexican Liga MX (1),341,71,71,71,71,4900000,6,7,27,28.3,25.4
+110152,Puebla FC,Mexican Liga MX (1),341,68,71,67,64,3700000,2,1,28,27.2,25.2
+110144,Santos Laguna,Mexican Liga MX (1),341,72,67,72,69,8600000,6,4,28,25.3,24.9
+1970,Tigres U.A.N.L.,Mexican Liga MX (1),341,75,77,75,71,22200000,9,7,26,29.6,27.0
+918,FK Bodø/Glimt,Norwegian Eliteserien (1),41,68,67,68,69,2800000,8,2,28,25.1,23.5
+1463,FK Haugesund,Norwegian Eliteserien (1),41,63,64,62,64,1400000,5,1,21,24.2,24.0
+113459,Kristiansund BK,Norwegian Eliteserien (1),41,64,64,64,64,750000,5,1,23,27.8,26.1
+299,Lillestrøm SK,Norwegian Eliteserien (1),41,64,65,65,64,1500000,6,1,25,25.7,23.4
+112420,Mjøndalen IF,Norwegian Eliteserien (1),41,61,61,62,60,1500000,1,1,26,27.6,25.4
+417,Molde FK,Norwegian Eliteserien (1),41,69,71,68,68,5400000,10,3,26,26.8,24.7
+1456,Odds BK,Norwegian Eliteserien (1),41,64,64,63,64,2400000,6,1,26,24.8,24.4
+298,Rosenborg BK,Norwegian Eliteserien (1),41,68,67,69,67,8300000,10,4,24,26.9,25.0
+919,SK Brann,Norwegian Eliteserien (1),41,65,64,65,63,3700000,6,1,26,25.0,24.8
+1757,Sandefjord Fotball,Norwegian Eliteserien (1),41,63,63,62,63,1100000,2,1,28,25.6,24.4
+112199,Sarpsborg 08 FF,Norwegian Eliteserien (1),41,64,64,64,64,2200000,4,1,26,27.6,26.5
+917,Stabæk Fotball,Norwegian Eliteserien (1),41,65,64,64,64,1700000,4,1,26,25.3,24.2
+922,Strømsgodset IF,Norwegian Eliteserien (1),41,64,62,66,65,2500000,5,1,24,25.3,23.7
+418,Tromsø IL,Norwegian Eliteserien (1),41,63,65,63,62,1800000,4,1,27,24.9,24.4
+300,Viking FK,Norwegian Eliteserien (1),41,66,67,64,64,2200000,6,1,26,25.4,25.3
+920,Vålerenga Fotball,Norwegian Eliteserien (1),41,65,64,64,66,2700000,8,2,23,25.6,22.8
+111007,12 de Octubre FC,Paraguayan Primera División (1),337,65,68,64,64,1900000,4,3,20,30.8,30.1
+112716,Club Cerro Porteño,Paraguayan Primera División (1),337,68,69,69,66,3600000,9,5,27,26.4,24.9
+111008,Club Libertad,Paraguayan Primera División (1),337,73,69,72,72,3100000,7,2,30,28.0,27.4
+112671,Club Nacional,Paraguayan Primera División (1),337,65,63,64,65,2300000,4,2,23,28.4,26.1
+101108,Club Olimpia,Paraguayan Primera División (1),337,71,70,70,69,6000000,10,8,29,29.9,27.0
+114575,Club River Plate Asunción,Paraguayan Primera División (1),337,65,66,64,63,1600000,1,1,20,28.9,29.4
+114688,Guaireña FC,Paraguayan Primera División (1),337,66,66,66,67,2300000,1,1,24,30.3,30.2
+114619,Carlos A. Mannucci,Peruvian Primera División (1),2020,65,65,65,65,2600000,2,3,29,27.4,25.3
+111013,Club Sporting Cristal,Peruvian Primera División (1),2020,68,68,66,68,3400000,8,4,26,26.6,24.0
+111014,Club Universitario de Deportes,Peruvian Primera División (1),2020,67,68,66,67,3500000,9,5,29,28.7,25.8
+111334,FBC Melgar,Peruvian Primera División (1),2020,66,65,66,65,1500000,2,1,26,26.2,23.9
+114511,Sport Huancayo,Peruvian Primera División (1),2020,65,65,66,63,2200000,3,2,27,28.4,27.7
+114617,Universidad Técnica de Cajamarca,Peruvian Primera División (1),2020,66,65,66,65,2500000,2,1,26,27.8,25.7
+112510,Bruk-Bet Termalica Nieciecza,Polish T-Mobile Ekstraklasa (1),66,63,63,64,62,2000000,4,1,28,26.9,25.5
+110747,Cracovia,Polish T-Mobile Ekstraklasa (1),66,65,66,64,65,2700000,8,3,28,26.3,24.4
+420,Górnik Zabrze,Polish T-Mobile Ekstraklasa (1),66,65,64,67,64,2100000,6,2,26,25.3,24.0
+110565,Górnik Łęczna,Polish T-Mobile Ekstraklasa (1),66,62,64,62,62,1500000,1,1,28,27.9,26.3
+110745,Jagiellonia Białystok,Polish T-Mobile Ekstraklasa (1),66,66,68,65,67,2600000,8,3,28,29.3,25.3
+873,Lech Poznań,Polish T-Mobile Ekstraklasa (1),66,69,70,69,69,3900000,10,4,28,26.1,25.1
+111091,Lechia Gdańsk,Polish T-Mobile Ekstraklasa (1),66,66,67,66,65,2900000,7,3,28,27.4,24.5
+1871,Legia Warszawa,Polish T-Mobile Ekstraklasa (1),66,69,69,70,68,5200000,10,5,28,25.2,24.8
+114004,PGE FKS Stal Mielec,Polish T-Mobile Ekstraklasa (1),66,63,63,63,62,1500000,1,1,28,25.7,26.0
+111086,Piast Gliwice,Polish T-Mobile Ekstraklasa (1),66,66,64,66,63,2300000,7,3,26,25.8,25.8
+110746,Pogoń Szczecin,Polish T-Mobile Ekstraklasa (1),66,67,67,68,67,2800000,7,3,28,26.2,24.9
+111088,Radomiak Radom,Polish T-Mobile Ekstraklasa (1),66,64,64,64,63,1500000,2,1,26,27.2,26.2
+114326,Raków Częstochowa,Polish T-Mobile Ekstraklasa (1),66,67,67,65,67,2200000,7,3,28,25.8,24.8
+112511,Warta Poznań,Polish T-Mobile Ekstraklasa (1),66,64,65,64,65,1500000,2,1,28,26.6,23.9
+1873,Wisła Kraków,Polish T-Mobile Ekstraklasa (1),66,66,65,65,65,1900000,6,3,28,25.6,25.4
+1569,Wisła Płock,Polish T-Mobile Ekstraklasa (1),66,64,60,66,63,1700000,4,1,28,26.4,24.9
+110749,Zagłębie Lubin,Polish T-Mobile Ekstraklasa (1),66,65,65,66,64,2900000,7,3,28,24.7,24.0
+111092,Śląsk Wrocław,Polish T-Mobile Ekstraklasa (1),66,66,66,66,65,2500000,7,3,28,27.1,25.0
+1889,Belenenses SAD,Portuguese Liga ZON SAGRES (1),308,69,68,68,69,2200000,5,1,30,24.7,23.5
+1898,Boavista FC,Portuguese Liga ZON SAGRES (1),308,69,70,68,69,4200000,5,1,26,26.3,24.5
+112516,CD Tondela,Portuguese Liga ZON SAGRES (1),308,69,71,68,69,2100000,2,1,26,25.2,23.9
+1893,Clube Sport Marítimo,Portuguese Liga ZON SAGRES (1),308,70,69,70,69,3900000,5,1,30,25.4,25.1
+10020,Estoril Praia,Portuguese Liga ZON SAGRES (1),308,69,68,69,70,2000000,1,1,27,23.7,23.7
+112513,FC Arouca,Portuguese Liga ZON SAGRES (1),308,69,69,69,69,1800000,1,1,29,26.8,26.0
+1892,FC Paços de Ferreira,Portuguese Liga ZON SAGRES (1),308,70,69,71,70,3300000,6,1,28,26.4,24.6
+236,FC Porto,Portuguese Liga ZON SAGRES (1),308,78,77,79,77,20000000,10,7,26,27.7,26.0
+111539,FC Vizela,Portuguese Liga ZON SAGRES (1),308,69,68,70,68,1600000,1,1,26,26.7,25.6
+112809,Futebol Clube de Famalicão,Portuguese Liga ZON SAGRES (1),308,70,70,71,71,4400000,4,1,30,24.2,22.5
+1888,Gil Vicente FC,Portuguese Liga ZON SAGRES (1),308,68,68,68,68,2900000,2,1,30,25.7,24.2
+1900,Moreirense FC,Portuguese Liga ZON SAGRES (1),308,70,71,70,70,3300000,4,1,27,26.9,25.4
+10031,Portimonense SC,Portuguese Liga ZON SAGRES (1),308,70,69,72,68,3300000,3,1,30,25.6,24.4
+1896,SC Braga,Portuguese Liga ZON SAGRES (1),308,75,74,72,75,14000000,8,3,29,25.4,24.2
+234,SL Benfica,Portuguese Liga ZON SAGRES (1),308,79,79,78,79,29300000,10,6,28,27.4,26.4
+1438,Santa Clara,Portuguese Liga ZON SAGRES (1),308,70,70,69,70,2300000,3,1,27,26.9,25.7
+237,Sporting CP,Portuguese Liga ZON SAGRES (1),308,78,79,79,78,21600000,9,4,25,25.3,24.6
+1887,Vitória de Guimarães,Portuguese Liga ZON SAGRES (1),308,72,74,71,71,5900000,7,2,30,25.4,24.0
+305,Bohemian FC,Rep. Ireland Airtricity League (1),65,61,62,61,60,530000,7,1,25,22.7,22.0
+445,Derry City,Rep. Ireland Airtricity League (1),65,58,58,57,59,510000,6,1,26,24.4,23.2
+1572,Drogheda United,Rep. Ireland Airtricity League (1),65,57,58,57,58,505000,3,1,27,25.9,24.0
+837,Dundalk FC,Rep. Ireland Airtricity League (1),65,63,63,63,61,700000,9,2,25,25.6,25.4
+111131,Finn Harps,Rep. Ireland Airtricity League (1),65,58,59,58,59,500000,2,1,26,27.0,25.1
+1586,Longford Town,Rep. Ireland Airtricity League (1),65,55,55,55,55,500000,10,1,25,24.8,22.9
+306,Shamrock Rovers,Rep. Ireland Airtricity League (1),65,63,63,62,64,750000,10,2,22,30.3,26.9
+563,Sligo Rovers,Rep. Ireland Airtricity League (1),65,60,61,58,60,515000,6,1,28,25.4,24.4
+423,St. Patrick's Athletic,Rep. Ireland Airtricity League (1),65,61,62,62,61,525000,7,1,25,25.9,23.4
+753,Waterford FC,Rep. Ireland Airtricity League (1),65,57,58,57,57,508000,4,1,28,23.0,23.1
+113387,AFC Chindia Târgoviște,Romanian Liga I (1),330,64,65,64,63,1300000,5,1,25,25.0,25.5
+110750,AFC UTA Arad,Romanian Liga I (1),330,63,63,63,64,1600000,6,2,27,27.6,25.7
+110816,CFR Cluj,Romanian Liga I (1),330,69,68,68,68,3300000,10,5,28,28.0,28.6
+113380,CS Mioveni,Romanian Liga I (1),330,61,61,61,62,1300000,1,1,27,28.6,26.6
+100759,Campionii FC Arges,Romanian Liga I (1),330,64,65,63,64,1500000,3,1,28,27.9,25.9
+113391,FC Academica Clinceni,Romanian Liga I (1),330,64,65,63,63,1000000,3,1,28,27.8,25.8
+110752,FC Botoşani,Romanian Liga I (1),330,65,65,65,64,2000000,7,3,28,27.2,25.1
+100757,FC Dinamo 1948 Bucureşti,Romanian Liga I (1),330,64,62,65,64,1000000,2,2,28,23.6,23.6
+110075,FC Farul Constanța,Romanian Liga I (1),330,65,64,65,66,2700000,7,4,28,25.7,23.9
+115716,FC U Craiova 1948,Romanian Liga I (1),330,64,63,65,64,1900000,4,1,28,25.6,25.9
+113182,FC Voluntari,Romanian Liga I (1),330,64,64,64,64,1300000,2,3,28,28.4,25.6
+100761,FCSB (Steaua),Romanian Liga I (1),330,69,69,68,68,5400000,10,4,28,26.6,24.6
+112637,Gaz Metan Mediaş,Romanian Liga I (1),330,64,63,64,63,1700000,6,3,28,26.6,25.7
+310,Rapid București,Romanian Liga I (1),330,64,62,64,66,1800000,5,2,28,27.9,26.2
+113378,Sepsi OSK Sf. Gheorghe,Romanian Liga I (1),330,66,65,64,65,2400000,7,3,28,28.0,26.7
+308,Universitatea Craiova,Romanian Liga I (1),330,68,67,67,67,2900000,10,4,28,26.6,26.4
+100765,FC Lokomotiv Moscow,Russian Premier League (1),67,74,75,73,73,12500000,9,5,28,26.1,24.2
+315,PFC CSKA Moscow,Russian Premier League (1),67,73,70,72,74,10200000,10,6,24,25.3,24.8
+100767,Spartak Moskva,Russian Premier League (1),67,74,74,75,74,20000000,10,4,28,25.8,25.4
+113058,Abha Club,Saudi Abdul L. Jameel League (1),350,64,64,65,63,1700000,1,1,29,28.4,26.8
+112387,Al Ahli,Saudi Abdul L. Jameel League (1),350,68,76,67,66,14600000,8,7,29,27.4,25.9
+112990,Al Batin,Saudi Abdul L. Jameel League (1),350,65,67,65,62,1300000,1,1,27,27.2,26.6
+112389,Al Faisaly,Saudi Abdul L. Jameel League (1),350,66,70,66,64,2200000,5,3,30,28.6,26.7
+112390,Al Fateh,Saudi Abdul L. Jameel League (1),350,65,66,66,62,3100000,6,4,28,27.6,25.7
+113057,Al Fayha,Saudi Abdul L. Jameel League (1),350,65,67,66,63,2500000,3,2,30,28.9,26.9
+113222,Al Hazem,Saudi Abdul L. Jameel League (1),350,64,65,67,61,1600000,2,1,29,27.8,26.1
+605,Al Hilal,Saudi Abdul L. Jameel League (1),350,73,78,74,72,23600000,10,7,30,30.4,26.7
+607,Al Ittihad,Saudi Abdul L. Jameel League (1),350,70,72,70,68,15000000,8,5,28,28.1,26.3
+112139,Al Nassr,Saudi Abdul L. Jameel League (1),350,72,77,71,70,24000000,10,5,30,28.0,26.2
+112392,Al Raed,Saudi Abdul L. Jameel League (1),350,66,67,68,64,2700000,4,2,30,28.0,26.3
+111674,Al Shabab,Saudi Abdul L. Jameel League (1),350,69,75,70,66,10700000,7,4,30,27.7,26.1
+112393,Al Taawoun,Saudi Abdul L. Jameel League (1),350,67,73,68,65,4300000,6,4,28,28.4,26.0
+112572,Al Tai,Saudi Abdul L. Jameel League (1),350,64,64,65,64,1800000,2,1,30,29.4,25.5
+113217,Damac FC,Saudi Abdul L. Jameel League (1),350,66,72,66,64,2600000,1,1,30,28.7,26.8
+112096,Ettifaq FC,Saudi Abdul L. Jameel League (1),350,66,65,69,62,3400000,6,3,29,27.2,25.4
+77,Aberdeen,Scottish Premiership (1),50,68,68,68,65,2300000,7,2,28,27.4,25.7
+78,Celtic,Scottish Premiership (1),50,72,72,74,69,14600000,10,4,28,24.7,24.6
+180,Dundee FC,Scottish Premiership (1),50,64,65,62,64,750000,3,1,23,27.3,26.4
+181,Dundee United,Scottish Premiership (1),50,65,64,65,65,800000,5,1,27,27.8,24.6
+80,Heart of Midlothian,Scottish Premiership (1),50,66,66,67,66,2300000,5,1,24,27.4,25.4
+81,Hibernian,Scottish Premiership (1),50,67,69,67,67,3000000,7,1,28,26.2,25.1
+621,Livingston FC,Scottish Premiership (1),50,64,63,65,63,650000,3,1,27,24.9,25.6
+83,Motherwell,Scottish Premiership (1),50,64,64,63,64,900000,5,1,28,27.0,25.6
+86,Rangers FC,Scottish Premiership (1),50,74,74,74,75,8300000,9,3,28,29.0,26.8
+631,Ross County FC,Scottish Premiership (1),50,63,63,63,62,600000,2,1,23,25.4,24.2
+100804,St. Johnstone FC,Scottish Premiership (1),50,65,65,65,65,700000,5,1,28,28.1,25.3
+100805,St. Mirren,Scottish Premiership (1),50,65,64,65,64,750000,2,1,24,25.6,25.6
+110929,Kaizer Chiefs,South African Premier Division (1),347,70,71,66,67,2200000,9,6,28,28.9,27.8
+110930,Orlando Pirates,South African Premier Division (1),347,69,68,68,68,2600000,10,5,28,29.6,27.6
+100831,AD Alcorcón,Spanish Segunda División (2),54,67,68,68,67,1600000,5,1,28,32.1,27.2
+10846,Burgos CF,Spanish Segunda División (2),54,67,66,68,65,1500000,1,1,27,28.4,26.7
+100888,CD Leganés,Spanish Segunda División (2),54,72,71,71,73,4200000,8,1,30,28.0,25.7
+110831,CD Lugo,Spanish Segunda División (2),54,67,67,68,65,1600000,3,1,29,28.2,26.9
+110069,CD Mirandés,Spanish Segunda División (2),54,66,66,66,65,1500000,3,1,26,23.6,22.2
+260,CD Tenerife,Spanish Segunda División (2),54,70,73,70,69,2000000,6,1,30,28.4,25.9
+110065,CF Fuenlabrada,Spanish Segunda División (2),54,69,68,70,68,1500000,2,1,30,28.4,25.4
+100851,FC Cartagena,Spanish Segunda División (2),54,69,70,69,69,1800000,2,1,29,29.6,27.7
+110062,Girona FC,Spanish Segunda División (2),54,71,74,69,71,4300000,8,1,27,26.6,23.6
+573,Málaga CF,Spanish Segunda División (2),54,70,70,70,71,9900000,8,1,30,26.8,24.4
+110827,Real Oviedo,Spanish Segunda División (2),54,69,70,69,69,2000000,5,1,30,25.4,24.9
+110711,Real Sociedad B,Spanish Segunda División (2),54,66,65,66,66,1500000,1,1,26,20.6,21.1
+459,Real Sporting de Gijón,Spanish Segunda División (2),54,70,72,69,70,4800000,7,1,27,25.9,24.4
+462,Real Valladolid CF,Spanish Segunda División (2),54,74,74,75,74,3100000,10,1,30,28.3,26.5
+244,Real Zaragoza,Spanish Segunda División (2),54,70,70,69,70,2700000,7,1,30,27.2,25.5
+113356,SD Amorebieta,Spanish Segunda División (2),54,65,64,65,64,1500000,1,1,26,27.3,28.2
+467,SD Eibar,Spanish Segunda División (2),54,72,72,72,73,6500000,9,1,27,27.9,27.0
+110839,SD Huesca,Spanish Segunda División (2),54,71,66,71,72,2100000,9,1,30,28.7,25.8
+2023,SD Ponferradina,Spanish Segunda División (2),54,69,69,68,68,2000000,4,1,28,27.3,25.4
+113981,UD Ibiza,Spanish Segunda División (2),54,68,69,68,67,1500000,1,1,30,28.7,26.2
+1861,Unión Deportiva Almería,Spanish Segunda División (2),54,72,75,71,71,10800000,8,1,29,24.4,24.2
+472,Unión Deportiva Las Palmas,Spanish Segunda División (2),54,70,69,70,70,6600000,7,1,30,27.8,24.8
+433,AIK,Swedish Allsvenskan (1),56,68,65,68,68,4400000,9,2,25,29.2,27.2
+711,BK Häcken,Swedish Allsvenskan (1),56,65,65,65,64,3700000,7,1,24,25.3,25.6
+113892,Degerfors IF,Swedish Allsvenskan (1),56,63,65,63,61,1200000,1,1,25,26.4,25.6
+710,Djurgårdens IF,Swedish Allsvenskan (1),56,66,66,66,66,4400000,9,1,23,27.0,25.6
+321,Halmstads BK,Swedish Allsvenskan (1),56,61,64,61,61,1600000,3,1,23,28.1,26.6
+708,Hammarby IF,Swedish Allsvenskan (1),56,67,66,67,68,4300000,8,1,24,27.4,25.6
+700,IF Elfsborg,Swedish Allsvenskan (1),56,65,63,67,67,2900000,6,1,24,25.3,23.2
+319,IFK Göteborg,Swedish Allsvenskan (1),56,67,67,67,66,2400000,7,1,22,29.4,26.9
+702,IFK Norrköping,Swedish Allsvenskan (1),56,65,69,63,64,4700000,8,1,22,26.2,25.0
+113458,IK Sirius,Swedish Allsvenskan (1),56,63,64,62,62,600000,3,1,26,25.4,23.4
+1439,Kalmar FF,Swedish Allsvenskan (1),56,63,62,63,63,1600000,3,1,22,26.1,25.4
+320,Malmö FF,Swedish Allsvenskan (1),56,70,70,69,69,8100000,10,4,28,27.6,26.1
+112072,Mjällby AIF,Swedish Allsvenskan (1),56,62,63,64,60,850000,2,1,28,26.4,24.4
+113743,Varbergs BoIS FC,Swedish Allsvenskan (1),56,62,63,63,62,650000,1,1,28,27.6,24.4
+705,Örebro SK,Swedish Allsvenskan (1),56,64,65,63,63,2000000,5,1,25,28.0,26.2
+113173,Östersunds FK,Swedish Allsvenskan (1),56,63,62,62,64,1700000,5,1,25,25.4,24.5
+900,BSC Young Boys,Swiss Super League (1),189,72,74,72,72,8600000,10,5,28,25.6,24.5
+896,FC Basel 1893,Swiss Super League (1),189,71,77,71,71,8400000,8,6,28,25.7,23.2
+1862,FC Lausanne-Sport,Swiss Super League (1),189,65,65,66,60,4200000,6,2,28,24.1,22.9
+10032,FC Lugano,Swiss Super League (1),189,66,64,67,66,2600000,4,2,25,29.1,24.9
+897,FC Luzern,Swiss Super League (1),189,69,70,69,68,3600000,6,3,26,26.1,24.6
+110770,FC Sion,Swiss Super League (1),189,68,69,68,64,5900000,6,3,28,27.4,25.5
+898,FC St. Gallen 1879,Swiss Super League (1),189,65,65,67,62,3200000,6,4,28,23.8,22.5
+894,FC Zürich,Swiss Super League (1),189,67,65,68,64,4000000,6,3,28,27.4,24.6
+322,Grasshopper Club Zürich,Swiss Super League (1),189,67,66,68,65,5200000,4,3,26,24.9,24.5
+324,Servette FC,Swiss Super League (1),189,68,68,67,70,3800000,5,3,27,27.6,24.6
+101016,Adana Demirspor,Turkish Süper Lig (1),68,71,73,71,70,4500000,2,1,26,28.4,26.7
+101006,Altay SK,Turkish Süper Lig (1),68,68,69,68,66,3400000,4,1,28,26.8,28.5
+741,Antalyaspor,Turkish Süper Lig (1),68,70,69,71,69,5300000,5,3,26,27.4,26.4
+101028,Atakaş Hatayspor,Turkish Süper Lig (1),68,69,70,70,66,3300000,1,1,23,28.1,27.1
+113142,Aytemiz Alanyaspor,Turkish Süper Lig (1),68,72,69,71,72,5700000,2,1,28,28.4,26.5
+327,Beşiktaş JK,Turkish Süper Lig (1),68,75,76,75,73,15500000,8,6,27,26.9,26.4
+101041,Demir Grup Sivasspor,Turkish Süper Lig (1),68,71,71,72,69,5800000,5,2,24,30.2,29.3
+111117,Fatih Karagümrük S.K.,Turkish Süper Lig (1),68,73,73,72,73,5200000,1,1,30,29.9,26.8
+326,Fenerbahçe SK,Turkish Süper Lig (1),68,75,76,74,74,14000000,9,6,28,26.0,25.8
+112120,GZT Giresunspor,Turkish Süper Lig (1),68,68,68,68,67,2400000,2,1,26,26.7,25.6
+325,Galatasaray SK,Turkish Süper Lig (1),68,74,72,72,74,16200000,10,7,30,25.3,25.8
+110776,Gazişehir Gaziantep F.K.,Turkish Süper Lig (1),68,70,71,69,71,3500000,3,1,30,28.0,26.5
+101026,Göztepe SK,Turkish Süper Lig (1),68,70,70,69,69,4500000,4,1,27,26.3,25.6
+111339,Kasimpaşa SK,Turkish Süper Lig (1),68,70,71,70,68,4000000,4,3,26,27.0,26.4
+436,Trabzonspor,Turkish Süper Lig (1),68,74,74,75,73,12700000,6,5,28,28.2,26.5
+113259,Yeni Malatyaspor,Turkish Süper Lig (1),68,68,70,68,69,4000000,2,1,27,27.3,24.6
+101020,Yukatel Kayserispor,Turkish Süper Lig (1),68,70,69,70,68,1800000,4,2,26,28.1,27.4
+101037,Çaykur Rizespor,Turkish Süper Lig (1),68,71,73,71,70,4000000,3,2,27,28.4,26.9
+101014,İstanbul Başakşehir FK,Turkish Süper Lig (1),68,73,73,74,70,9900000,8,5,27,27.9,27.5
+101033,İttifak Holding Konyaspor,Turkish Süper Lig (1),68,69,70,67,70,4800000,6,3,24,27.8,27.8
+111701,Al Ain FC,UAE Arabian Gulf League (1),2013,67,74,69,64,13900000,9,6,28,25.6,24.8
+112885,Atlanta United,USA Major League Soccer (1),39,70,74,70,69,38300000,8,5,30,24.7,24.2
+114161,Austin FC,USA Major League Soccer (1),39,68,69,70,66,15800000,2,1,29,26.4,25.4
+693,Chicago Fire Football Club,USA Major League Soccer (1),39,68,65,69,66,27900000,5,1,27,26.3,24.5
+111139,Club de Foot Montréal,USA Major League Soccer (1),39,68,69,69,67,19100000,4,4,29,25.7,22.9
+694,Colorado Rapids,USA Major League Soccer (1),39,69,69,71,68,17600000,4,1,30,26.4,25.4
+687,Columbus Crew,USA Major League Soccer (1),39,71,72,71,70,18400000,6,2,30,29.4,27.8
+688,D.C. United,USA Major League Soccer (1),39,70,72,68,68,27500000,5,3,30,26.2,26.0
+113149,FC Cincinnati,USA Major League Soccer (1),39,67,71,68,66,22000000,1,1,30,27.6,26.1
+695,FC Dallas,USA Major League Soccer (1),39,69,68,69,68,18200000,5,2,27,23.9,24.3
+698,Houston Dynamo,USA Major League Soccer (1),39,67,67,67,66,23900000,6,2,30,26.1,25.6
+112893,Inter Miami CF,USA Major League Soccer (1),39,71,81,72,68,30000000,3,3,28,27.7,26.6
+697,LA Galaxy,USA Major League Soccer (1),39,69,74,70,68,37100000,9,6,30,25.9,24.8
+112996,Los Angeles FC,USA Major League Soccer (1),39,69,74,70,67,36800000,8,2,30,24.2,23.3
+111138,Minnesota United FC,USA Major League Soccer (1),39,70,69,72,69,25400000,3,1,27,28.6,26.5
+114162,Nashville SC,USA Major League Soccer (1),39,69,70,69,68,18400000,2,2,28,28.4,26.4
+691,New England Revolution,USA Major League Soccer (1),39,69,74,69,67,21600000,5,3,27,26.2,26.4
+112828,New York City FC,USA Major League Soccer (1),39,70,70,70,70,31300000,10,5,27,27.6,24.8
+689,New York Red Bulls,USA Major League Soccer (1),39,68,69,69,68,24700000,8,4,25,22.2,22.8
+112606,Orlando City Soccer Club,USA Major League Soccer (1),39,71,75,69,70,25000000,6,5,30,27.7,25.4
+112134,Philadelphia Union,USA Major League Soccer (1),39,70,70,70,69,21300000,6,2,29,26.4,24.7
+111140,Portland Timbers,USA Major League Soccer (1),39,71,73,70,70,31600000,7,3,27,29.7,27.2
+111065,Real Salt Lake,USA Major League Soccer (1),39,68,67,69,67,20900000,6,4,30,27.6,25.6
+111928,San Jose Earthquakes,USA Major League Soccer (1),39,68,67,70,68,23600000,4,2,26,25.6,26.2
+111144,Seattle Sounders FC,USA Major League Soccer (1),39,71,74,70,68,32500000,8,4,28,28.3,26.2
+696,Sporting Kansas City,USA Major League Soccer (1),39,69,73,69,68,27200000,7,2,29,30.1,25.6
+111651,Toronto FC,USA Major League Soccer (1),39,69,68,73,68,31900000,7,4,30,28.4,25.9
+101112,Vancouver Whitecaps FC,USA Major League Soccer (1),39,68,70,68,67,19500000,5,2,29,24.6,24.6
+101047,Dynamo Kyiv,Ukrainian Premier League (1),332,74,71,75,73,12800000,10,6,28,24.4,24.9
+101059,Shakhtar Donetsk,Ukrainian Premier League (1),332,75,72,75,74,16800000,10,7,28,26.3,24.8
+111002,Centro Atlético Fénix,Uruguayan Primera División (1),338,63,62,64,61,1600000,2,1,20,27.3,25.1
+115536,Cerro Largo Fútbol Club,Uruguayan Primera División (1),338,63,63,63,63,1600000,2,1,20,26.6,25.4
+101110,Club Atlético Peñarol,Uruguayan Primera División (1),338,69,67,70,65,4900000,8,6,26,27.1,25.4
+115535,Club Atlético Rentistas,Uruguayan Primera División (1),338,65,64,65,64,500000,5,1,27,25.6,24.4
+111325,Club Nacional de Football,Uruguayan Primera División (1),338,70,74,70,68,5400000,9,6,22,26.9,26.4
+113143,Montevideo City Torque,Uruguayan Primera División (1),338,65,64,64,66,2700000,5,2,20,25.4,24.4
+110992,AC Mineros de Guayana,Venezuelan Primera División (1),2019,61,58,61,61,1300000,5,3,24,26.1,23.1
+114611,Academia Puerto Cabello,Venezuelan Primera División (1),2019,63,64,63,62,1500000,1,1,27,27.4,24.5
+112916,Aragua Fútbol Club,Venezuelan Primera División (1),2019,63,63,62,61,1400000,3,3,28,27.4,25.5
+112853,Deportivo La Guaira FC,Venezuelan Primera División (1),2019,66,65,66,65,1200000,4,1,28,26.6,25.6
+110990,Deportivo Táchira FC,Venezuelan Primera División (1),2019,63,65,63,63,1900000,6,4,27,27.7,26.1
+112914,Metropolitanos de Caracas FC,Venezuelan Primera División (1),2019,66,68,65,63,1500000,1,1,27,26.4,25.0
